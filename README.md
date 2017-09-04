@@ -1,5 +1,5 @@
 # BaseN
-Convert between bases using arbitrary Positional Numeral Systems
+Convert between bases using arbitrary, unique Positional Numeral Systems
 
 ## Usage:
 To illustrate simple usage, see Hex examples:
