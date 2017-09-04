@@ -40,4 +40,9 @@ The main purpose of this module is to support complex symbol sets. For example, 
 >>> BaseN.DecToBaseN('44564', DIGIT_SET)
 'afe'
 
+>>> BaseN.BaseNToDec('o9~.p', DIGIT_SET)
+'458268451'
+>>> BaseN.DecToBaseN('458268451', DIGIT_SET)
+'o9~.p'
+
 ```
